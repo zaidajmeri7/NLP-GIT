@@ -1,0 +1,78 @@
+# ============================================================
+# Datasets & Corpora
+# ============================================================
+
+# Root level datasets & corpus files
+data.txt
+tokenized_sentences.txt
+
+# Assignment 1 - Gujarati Corpus
+A-1/Data/
+**/Data/
+**/data/
+**/dataset/
+**/datasets/
+**/corpus/
+gu.txt
+
+# Assignment 2 - Text Segmentation
+A-2/text_segmentation_dataset.json
+text_segmentation_dataset.json
+
+# Assignment 3 - Brown Corpus
+A-3/brown_nouns.txt
+brown_nouns.txt
+
+# Assignment 5 - Gujarati LM Corpus
+A-5/data.txt
+
+# Assignment 7 - Hindi POS Tagging Datasets & Result Data
+A-7/hindi-dev-pos.txt
+A-7/hindi-test-pos.txt
+A-7/hindi-train-pos.txt
+A-7/*.csv
+hindi-*-pos.txt
+
+# Assignment 8 - Spell Correction Datasets & Frequency Counts
+A-8/count_1edit.txt
+A-8/count_unigram.txt
+A-8/spell-errors.txt
+count_1edit.txt
+count_unigram.txt
+spell-errors.txt
+Spell-Correction/
+
+# General Data File Formats
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.rar
+*.7z
+
+# ============================================================
+# Python & Environment
+# ============================================================
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
